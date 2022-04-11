@@ -1,0 +1,21 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    border: 1px solid black;
+    width: 1000px;
+    padding: 25px;
+}
+
+input#logout, button{
+    background-color: rgb(138, 232, 255);
+    color: white;
+    border: none;
+    padding: 5px;
+    font-weight: 600;
+}
+
+table {
+    text-align: center;
+}

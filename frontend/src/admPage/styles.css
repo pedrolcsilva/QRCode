@@ -1,0 +1,36 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+form {
+    border: 1px solid black;
+    width: 1000px;
+    padding: 25px;
+}
+
+input#logout, button{
+    margin-top: 25px;
+    background-color: rgb(138, 232, 255);
+    color: white;
+    border: none;
+    padding: 5px;
+    font-weight: 600;
+}
+
+table#alter tr td { 
+	background: rgb(195, 253, 252);
+} 
+table#alter tr.dif td {
+	background: rgb(255, 255, 255); 
+}
+
+table#alter {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 25px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
